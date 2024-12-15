@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: https://vinnymarquez.dev
+- 🌱 I’m currently learning Svelte
+
 <!--
 **chuv13/chuv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
