@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: https://vinnymarquez.dev Version 3
+- 🔭 I’m currently working on: https://vinnymarquez.dev - Version 4
 - 🌱 I’m currently learning Svelte
 
 <!--
