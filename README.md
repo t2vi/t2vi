@@ -1,7 +1,9 @@
-### Hi there 👋
+# Mabuhay! 👋
 
-- 🔭 I’m currently working on: https://vinnymarquez.dev - Version 4
-- 🌱 I’m currently learning Svelte
+- 🔭 Day job: .NET | Specflow | Selenium | Selenoid
+
+- 🔭 I’m currently working on: https://vinnymarquez.dev - Version 3
+- 🌱 I’m currently learning Svelte - for Version 4
 
 <!--
 **chuv13/chuv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
