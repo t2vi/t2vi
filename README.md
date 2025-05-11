@@ -3,7 +3,7 @@
 - 🔭 Day job: .NET | Specflow | Selenium | Selenoid
 
 - 🔭 I’m currently working on https://vinnymarquez.dev (V3), built using NextJS and Tailwind
-- 🌱 I’m currently learning Svelte for Version 4
+- 🌱 I’m currently learning ~Svelte~ 11ty for Version 4
 
 <!--
 **chuv13/chuv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
