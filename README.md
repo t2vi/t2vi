@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on https://vinnymarquez.dev (V3), built using NextJS and Tailwind
 - 🌱 I’m currently learning ~Svelte~ 11ty for Version 4
+- :abacus: I'm currently wanting to setup my own Homelab. So far, I got and Opnsense on an n150 minipc, and a Pi-Hole on a Raspi 4b.
 
 <!--
 **chuv13/chuv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
