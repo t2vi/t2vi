@@ -5,7 +5,7 @@ A Filipino IT professional residing in Merlbourne, AU :philippines::australia:
 
 - :computer: I’m currently working on https://vinnymarquez.dev (V3), built using NextJS and Tailwind
 - :books: I’m currently learning [~Svelte~](https://svelte.dev/) [11ty](https://www.11ty.dev/) for Version 4
-- :abacus: I'm currently wanting to setup my own Homelab. So far:
+- :abacus: I'm currently started to setup my very own Homelab. So far:
   - n150 minipc, running OpnSense.
   - Raspberry Pi 4b, running Pi-hole.
   - 1 8-port switch, 1 8-port PoE switch
