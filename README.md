@@ -12,7 +12,7 @@ A Filipino IT professional residing in Merlbourne, AU :philippines::australia:
   - 2 eero as APs
   - 1 MacBook Air, running Ubuntu Server
   - 1 Lenovo ThinkCentre M910Q Tiny (in-transit)
-  - 1 HP ProDesk 400 G5 SFF
+  - 1 HP ProDesk 400 G5 SFF (in-transit)
 
 <!--
 **chuv13/chuv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
