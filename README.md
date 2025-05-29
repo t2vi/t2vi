@@ -7,12 +7,13 @@ A Filipino IT professional residing in Merlbourne, AU :philippines::australia:
 - :abacus: I'm currently started setting up my very own Homelab. So far, I have:
   - Topton Intel N150 16GB RAM 256GB NVME, running OpnSense.
   - Raspberry Pi 4b 8GB RAM, running Pi-hole.
-  - 8-port switch, 1 8-port PoE switch
+  - Tp-link 8-port switch (LS1008G)
+  - Tp-Link 8-port PoE switch (LS108GP)
   - Tp-link VR2100v (Access Point mode)
-  - 2x eero as APs
+  - 2x eero 6 (Access Point mode)
   - MacBook Air 4GB RAM 128GB (13" early 2014), running Ubuntu Server
   - Lenovo ThinkCentre M910Q Tiny i5-7500T 16GB RAM 256GB NVME (in-transit)
-  - HP ProDesk 400 G5 SFF 4 GB(in-transit)
+  - HP ProDesk 400 G5 SFF 4 GB (in-transit)
 
 <!--
 **chuv13/chuv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
