@@ -4,7 +4,7 @@ A Filipino IT professional residing in Merlbourne, AU :philippines::australia:
 - :desktop_computer: Day job: .NET | Specflow | Selenium | Selenoid.
 - :computer: I’m currently working on https://vinnymarquez.dev (V3), built using NextJS and Tailwind.
 - :books: I’m currently learning [~Svelte~](https://svelte.dev/) [11ty](https://www.11ty.dev/) for Version 4.
-- :abacus: I'm currently started to setup my very own Homelab. So far:
+- :abacus: I'm currently started setting up my very own Homelab. So far, I have:
   - Topton Intel N150 16GB RAM 256GB NVME, running OpnSense.
   - Raspberry Pi 4b 8GB RAM, running Pi-hole.
   - 8-port switch, 1 8-port PoE switch
