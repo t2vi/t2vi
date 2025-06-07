@@ -6,14 +6,15 @@ A Filipino IT professional residing in Merlbourne, AU :philippines::australia:
 - :books: I’m currently learning [~Svelte~](https://svelte.dev/) [11ty](https://www.11ty.dev/) for Version 4.
 - :abacus: I'm currently started setting up my very own Homelab. So far, I have:
   - Topton Intel N150 16GB RAM 256GB NVME, running OpnSense.
-  - Raspberry Pi 4b 8GB RAM, running Pi-hole.
+  - MacBook Air 4GB RAM 128GB (13" early 2014), running k3s. [DEV]
+  - Lenovo ThinkCentre M910Q Tiny i5-7500T 16GB RAM 256GB NVME, running K3s, Control Plane. [PROD]
+  - Raspberry Pi 4b 8GB RAM, running k3s, worker node. [PROD]
+  - - HP ProDesk 400 G5 SFF 4 GB (in-transit)
   - Tp-link 8-port switch (LS1008G)
   - Tp-Link 8-port PoE switch (LS108GP)
   - Tp-link VR2100v (Access Point mode)
   - 2x eero 6 (Access Point mode)
-  - MacBook Air 4GB RAM 128GB (13" early 2014), running Ubuntu Server
-  - Lenovo ThinkCentre M910Q Tiny i5-7500T 16GB RAM 256GB NVME (in-transit)
-  - HP ProDesk 400 G5 SFF 4 GB (in-transit)
+  
 
 <!--
 **chuv13/chuv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
