@@ -9,7 +9,7 @@ A Filipino IT professional residing in Merlbourne, AU :philippines::australia:
   - MacBook Air 4GB RAM 128GB (13" early 2014), running k3s. [DEV]
   - Lenovo ThinkCentre M910Q Tiny i5-7500T 16GB RAM 256GB NVME, running K3s, Control Plane. [PROD]
   - Raspberry Pi 4b 8GB RAM, running k3s, worker node. [PROD]
-  - - HP ProDesk 400 G5 SFF 4 GB (in-transit)
+  - HP ProDesk 400 G5 SFF 4 GB (in-transit)
   - Tp-link 8-port switch (LS1008G)
   - Tp-Link 8-port PoE switch (LS108GP)
   - Tp-link VR2100v (Access Point mode)
