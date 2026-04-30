@@ -60,7 +60,6 @@ I've recently started building my own homelab — part playground, part producti
 You can find more about my projects, blog posts, and experiments here:  
 👉 https://vinnymarquez.dev
 
----
 
 ## ⚡ Fun Fact
 
