@@ -1,32 +1,67 @@
 # Mabuhay! 👋
 
-A Filipino IT professional residing in Merlbourne, AU :philippines::australia:
-- :desktop_computer: Day job: .NET | Specflow | Selenium | Selenoid.
-- :computer: I’m currently working on https://vinnymarquez.dev (V3), built using NextJS and Tailwind.
-- :books: I’m currently learning [~Svelte~](https://svelte.dev/) [11ty](https://www.11ty.dev/) for Version 4.
-- :abacus: I've currently started setting up my very own Homelab. So far, I have:
-  - Topton Intel N150 16GB RAM 256GB NVME, running OpnSense.
-  - MacBook Air 4GB RAM 128GB (13" early 2014), running k3s. [DEV]
-  - Lenovo ThinkCentre M910Q Tiny i5-7500T 16GB RAM 256GB NVME, running K3s on Proxmox. Control Planes, databases, etc. [PROD]
-  - Raspberry Pi 4b 8GB RAM, pi-hole, bare metal. [PROD]
-  - HP ProDesk 400 G5 SFF 4 GB (in-transit)
-  - Tp-link 8-port switch (LS1008G)
-  - Tp-Link 8-port PoE switch (LS108GP)
-  - Tp-link VR2100v (Access Point mode)
-  - 2x eero 6 (Access Point mode)
-  
+I'm a Filipino IT professional based in Melbourne, Australia 🇵🇭🇦🇺
 
-<!--
-**chuv13/chuv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ **Day Job:** .NET | SpecFlow | Selenium | Selenoid  
+- 💻 **Current Project:** [vinnymarquez.dev (V3)](https://vinnymarquez.dev) — built with AstroJS + TailwindCSS + shadcn/ui + PagesCMS
+- 🧪 **Interests:** Automation, DevOps, Homelabs, and clean UI/UX  
+
+---
+
+## 🏠 Homelab Setup
+
+I've recently started building my own homelab — part playground, part production:
+
+### 🔐 Networking
+- **Topton Intel N150**  
+  `16GB RAM | 256GB NVMe`  
+  → Running **OPNsense**
+
+- **TP-Link LS1008G**  
+  → 8-Port Gigabit Switch  
+
+- **TP-Link LS108GP**  
+  → 8-Port PoE Switch  
+
+- **TP-Link VR2100v**  
+  → Access Point Mode  
+
+- **2x Eero 6**  
+  → Mesh (Access Point Mode)
+
+---
+
+### 🧠 Compute
+
+- **MacBook Air (Early 2014)**  
+  `4GB RAM | 128GB`  
+  → Running **CachyOS** `[DEV]`
+
+- **Lenovo ThinkCentre M910q Tiny (i5-7500T)**  
+  `16GB RAM | 256GB NVMe`  
+  → **Proxmox + k3s**  
+  → Control Planes, Databases, etc. `[PROD]`
+
+- **Raspberry Pi 4B**  
+  `8GB RAM`  
+  → **Pi-hole (Bare Metal)** `[PROD]`
+
+- **HP ProDesk 400 G5 SFF** *(In Transit 🚚)*  
+  → Future expansion 👀
+
+---
+
+## 🌐 More About Me
+
+You can find more about my projects, blog posts, and experiments here:  
+👉 https://vinnymarquez.dev
+
+---
+
+## ⚡ Fun Fact
+
+This setup is constantly evolving — breaking things is part of my process 😄
