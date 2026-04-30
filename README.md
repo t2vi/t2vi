@@ -5,62 +5,51 @@ I'm a Filipino IT professional based in Melbourne, Australia 🇵🇭🇦🇺
 ## 🧑‍💻 About Me
 
 - 🖥️ **Day Job:** .NET | SpecFlow | Selenium | Selenoid  
-- 💻 **Current Project:** [vinnymarquez.dev (V3)](https://vinnymarquez.dev) — built with AstroJS + TailwindCSS + shadcn/ui + PagesCMS
-- 🧪 **Interests:** Automation, DevOps, Homelabs, and clean UI/UX  
+- 💻 **Current Project:** [vinnymarquez.dev (V3)](https://vinnymarquez.dev) — AstroJS + TailwindCSS + shadcn/ui + PagesCMS  
+- 🧪 **Interests:** Automation, DevOps, Homelabs, UI/UX  
 
-## 🏠 Homelab Setup
+---
 
+## 🏠 Homelab
 I've recently started building my own homelab — part playground, part production:
 
+<details>
+<summary>⚡ View Setup</summary>
+
 ### 🔐 Networking
-- **Topton Intel N150**  
-  `16GB RAM | 256GB NVMe`  
-  → Running **OPNsense**
 
-- **TP-Link LS1008G**  
-  → 8-Port Gigabit Switch  
+| Device | Specs | Role |
+|-------|------|------|
+| Topton Intel N150 | 16GB / 256GB NVMe | OPNsense |
+| TP-Link LS1008G | — | 8-Port Switch |
+| TP-Link LS108GP | — | 8-Port PoE |
+| TP-Link VR2100v | — | Access Point |
+| 2x Eero 6 | — | Mesh AP |
 
-- **TP-Link LS108GP**  
-  → 8-Port PoE Switch  
-
-- **TP-Link VR2100v**  
-  → Access Point Mode  
-
-- **2x Eero 6**  
-  → Mesh (Access Point Mode)
+---
 
 ### 🧠 Compute
 
-- **MacBook Air (Early 2014)**  
-  `4GB RAM | 128GB`  
-  → Running **CachyOS** `[DEV]`
+| Device | Specs | Stack | Env |
+|-------|------|------|-----|
+| MacBook Air (2014) | 4GB / 128GB | CachyOS | DEV |
+| Lenovo M910q Tiny | 8GB / 256GB | Proxmox + *Arr Stack | PROD |
+| HP ProDesk 400 G5 | 16GB / 256GB | Proxmox + Plex/Jellyfin | PROD |
+| Raspberry Pi 4B | 8GB | Pi-hole (Bare Metal) | PROD |
+| HP EliteDesk 800 G3 | 16GB / 256GB | Proxmox + k3s (HA stack) | PROD |
 
-- **Lenovo ThinkCentre M910q Tiny (i5-7500T)**  
-  `8GB RAM | 256GB NVMe`  
-  → **Proxmox**  
-  → *Arr Stack (Radarr, Sonarr, Lidarr, Bazarr, Prowlarr, QBittorrent, Tautulli, Proton VPN) `[PROD]`
+**\*Arr Stack:** Radarr, Sonarr, Lidarr, Bazarr, Prowlarr, qBittorrent, Tautulli, ProtonVPN  
 
-- **HP ProDesk 400 G5 SFF (i5-8500T)**
-  `16GB RAM | 256GB NVMe`  
-  → **Proxmox**  
-  → Plex, Jellyfin  `[PROD]`
+</details>
 
-- **Raspberry Pi 4B**  
-  `8GB RAM`  
-  → **Pi-hole (Bare Metal)** `[PROD]`
-
-- **HP EliteDesk 800 G3 SFF** 
-  `16GB RAM | 256GB NVMe`  
-  → **Proxmox + k3s**  
-  → Home Assistant, Pi-Alert, Tracearr, Honelable, Home Page, DocMost `[PROD]`
-
+---
 
 ## 🌐 More About Me
 
-You can find more about my projects, blog posts, and experiments here:  
 👉 https://vinnymarquez.dev
 
+---
 
 ## ⚡ Fun Fact
 
-This setup is constantly evolving — breaking things is part of my process 😄
+This setup is constantly evolving — breaking things is part of the process 😄
