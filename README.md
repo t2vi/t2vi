@@ -8,8 +8,6 @@ I'm a Filipino IT professional based in Melbourne, Australia 🇵🇭🇦🇺
 - 💻 **Current Project:** [vinnymarquez.dev (V3)](https://vinnymarquez.dev) — AstroJS + TailwindCSS + shadcn/ui + PagesCMS  
 - 🧪 **Interests:** Automation, DevOps, Homelabs, UI/UX  
 
----
-
 ## 🏠 Homelab
 I've recently started building my own homelab — part playground, part production:
 
@@ -26,8 +24,6 @@ I've recently started building my own homelab — part playground, part producti
 | TP-Link VR2100v | — | Access Point |
 | 2x Eero 6 | — | Mesh AP |
 
----
-
 ### 🧠 Compute
 
 | Device | Specs | Stack | Env |
@@ -42,13 +38,9 @@ I've recently started building my own homelab — part playground, part producti
 
 </details>
 
----
-
 ## 🌐 More About Me
 
 👉 https://vinnymarquez.dev
-
----
 
 ## ⚡ Fun Fact
 
