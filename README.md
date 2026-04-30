@@ -2,15 +2,11 @@
 
 I'm a Filipino IT professional based in Melbourne, Australia 🇵🇭🇦🇺
 
----
-
 ## 🧑‍💻 About Me
 
 - 🖥️ **Day Job:** .NET | SpecFlow | Selenium | Selenoid  
 - 💻 **Current Project:** [vinnymarquez.dev (V3)](https://vinnymarquez.dev) — built with AstroJS + TailwindCSS + shadcn/ui + PagesCMS
 - 🧪 **Interests:** Automation, DevOps, Homelabs, and clean UI/UX  
-
----
 
 ## 🏠 Homelab Setup
 
@@ -32,8 +28,6 @@ I've recently started building my own homelab — part playground, part producti
 
 - **2x Eero 6**  
   → Mesh (Access Point Mode)
-
----
 
 ### 🧠 Compute
 
@@ -60,8 +54,6 @@ I've recently started building my own homelab — part playground, part producti
   → **Proxmox + k3s**  
   → Home Assistant, Pi-Alert, Tracearr, Honelable, Home Page, DocMost `[PROD]`
 
-
----
 
 ## 🌐 More About Me
 
