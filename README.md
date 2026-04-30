@@ -42,16 +42,24 @@ I've recently started building my own homelab — part playground, part producti
   → Running **CachyOS** `[DEV]`
 
 - **Lenovo ThinkCentre M910q Tiny (i5-7500T)**  
+  `8GB RAM | 256GB NVMe`  
+  → **Proxmox**  
+  → *Arr Stack (Radarr, Sonarr, Lidarr, Bazarr, Prowlarr, QBittorrent, Tautulli, Proton VPN) `[PROD]`
+
+- **HP ProDesk 400 G5 SFF (i5-8500T)**
   `16GB RAM | 256GB NVMe`  
-  → **Proxmox + k3s**  
-  → Control Planes, Databases, etc. `[PROD]`
+  → **Proxmox**  
+  → Plex, Jellyfin  `[PROD]`
 
 - **Raspberry Pi 4B**  
   `8GB RAM`  
   → **Pi-hole (Bare Metal)** `[PROD]`
 
-- **HP ProDesk 400 G5 SFF** *(In Transit 🚚)*  
-  → Future expansion 👀
+- **HP EliteDesk 800 G3 SFF** 
+  `16GB RAM | 256GB NVMe`  
+  → **Proxmox + k3s**  
+  → Home Assistant, Pi-Alert, Tracearr, Honelable, Home Page, DocMost `[PROD]`
+
 
 ---
 
