@@ -41,7 +41,3 @@ I've recently started building my own homelab — part playground, part producti
 ## 🌐 More About Me
 
 👉 https://vinnymarquez.dev
-
-## ⚡ Fun Fact
-
-This setup is constantly evolving — breaking things is part of the process 😄
