@@ -23,6 +23,7 @@ I've recently started building my own homelab — part playground, part producti
 | TP-Link LS108GP | — | 8-Port PoE |
 | TP-Link VR2100v | — | Access Point |
 | 2x Eero 6 | — | Mesh AP |
+| 2x Eero 6 Extender | — | AP Extender |
 
 ### 🧠 Compute
 
