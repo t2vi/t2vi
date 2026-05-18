@@ -5,7 +5,9 @@ I'm a Filipino IT professional based in Melbourne, Australia 🇵🇭🇦🇺
 ## 🧑‍💻 About Me
 
 - 🖥️ **Day Job:** .NET | SpecFlow | Selenium | Selenoid  
-- 💻 **Current Project:** [vinnymarquez.dev (V4)](https://vinnymarquez.dev) — AstroJS + TailwindCSS + shadcn/ui + PagesCMS  
+- 💻 **Latest Project(s):**
+  - [vinnymarquez.dev (V4)](https://vinnymarquez.dev)
+  - [*ARRgh!](https://github.com/t2vi/arrgh)
 - 🧪 **Interests:** Automation, DevOps, Homelabs, UI/UX  
 
 ## 🏠 Homelab
