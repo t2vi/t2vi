@@ -8,6 +8,7 @@ I'm a Filipino IT professional based in Melbourne, Australia 🇵🇭🇦🇺
 - 💻 **Latest Project(s):**
   - [vinnymarquez.dev (V4)](https://vinnymarquez.dev)
   - [*ARRgh!](https://github.com/t2vi/arrgh)
+  - [spoolbook](https://github.com/t2vi/spoolbook)
 - 🧪 **Interests:** Automation, DevOps, Homelabs, UI/UX  
 
 ## 🏠 Homelab
