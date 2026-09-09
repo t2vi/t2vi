@@ -12,7 +12,7 @@ I'm a Filipino IT professional based in Melbourne, Australia 🇵🇭🇦🇺
 - 🧪 **Interests:** Automation, DevOps, Homelabs, UI/UX  
 
 ## 🏠 Homelab
-I've recently started building my own homelab — part playground, part production:
+Part playground, part production — a 3-node Proxmox cluster behind OPNsense, with a private ~75-page runbook wiki (Astro/Starlight) behind it.
 
 <details>
 <summary>⚡ View Setup</summary>
@@ -21,24 +21,39 @@ I've recently started building my own homelab — part playground, part producti
 
 | Device | Specs | Role |
 |-------|------|------|
-| Topton Intel N150 | 16GB / 256GB NVMe | OPNsense |
-| TP-Link LS1008G | — | 8-Port Switch |
-| TP-Link LS108GP | — | 8-Port PoE |
-| TP-Link VR2100v | — | Access Point |
-| 2x Eero 6 | — | Mesh AP |
-| 2x Eero 6 Extender | — | AP Extender |
+| Topton Intel N150 | 16GB / 256GB NVMe | OPNsense — router/firewall |
+| TP-Link LS1008G | 8-port | Unmanaged switch — VLAN cutover pending a MikroTik CRS326 |
+| TP-Link LS108GP | 8-port PoE | Unmanaged PoE switch |
+| TP-Link VR2100v | — | Access point |
+| 2x Eero 6 + 2x Extender | — | Mesh Wi-Fi |
 
-### 🧠 Compute
+A single flat LAN today; the full VLAN plan is built in OPNsense, waiting on the managed switch to cut over.
 
-| Device | Specs | Stack | Env |
-|-------|------|------|-----|
-| MacBook Air (2014) | 4GB / 128GB | CachyOS | DEV |
-| Lenovo M910q Tiny | 8GB / 256GB | Proxmox + *Arr Stack | PROD |
-| HP ProDesk 400 G5 | 16GB / 256GB | Proxmox + Plex/Jellyfin | PROD |
-| Raspberry Pi 4B | 8GB | Pi-hole (Bare Metal) | PROD |
-| HP EliteDesk 800 G3 | 16GB / 256GB | Proxmox + k3s (HA stack) | PROD |
+### 🧠 Compute — 3-node Proxmox cluster
 
-**\*Arr Stack:** Radarr, Sonarr, Lidarr, Bazarr, Prowlarr, qBittorrent, Tautulli, ProtonVPN  
+| Device | Specs | Runs |
+|--------|-------|------|
+| Lenovo M910q Tiny | 16GB / i5-7500T | *Arr stack + gluetun VPN gateway, Seerr, Home Assistant OS (VM) |
+| HP EliteDesk 800 G5 mini | 16GB / i5-9500T | Docker + Podman (Portainer), k3s practice VM, Prometheus/Grafana, Immich, Technitium DNS (primary) |
+| HP EliteDesk 800 G5 mini | 16GB / i5-9500T | Plex, Homepage, Vaultwarden, Paperless-ngx, step-ca (internal PKI), + misc self-hosted apps |
+
+Outside the cluster:
+
+| Device | Specs | Role |
+|--------|-------|------|
+| Raspberry Pi 4B | 8GB, bare metal | Technitium DNS — secondary node (replaced Pi-hole) |
+| HP EliteDesk 400 G3 SFF | 16GB / i5-6500 | TrueNAS (ZFS, ~8TB) — media, photo originals, document archive over SMB |
+
+**Remote access:** Cloudflare Tunnel (CGNAT workaround) for Plex, Seerr, Immich, Vaultwarden, Home Assistant and a public dashboard — admin surfaces gated behind Cloudflare Access + Google OAuth.
+
+**\*Arr stack:** Radarr, Sonarr, Lidarr, Prowlarr, Bazarr, qBittorrent, all VPN-gated through gluetun (Proton VPN) with an LXC-level kill switch.
+
+### 🛠️ On deck
+
+- Dedicated bare-metal **Talos + Kubernetes** cluster from spare EliteDesk minis (Longhorn storage, GitOps) — migrating the "cattle" workloads off Proxmox
+- Managed switch → VLAN segmentation cutover
+- Self-hosted git (Forgejo) once the k8s cluster is up
+- 10" DIY rack (HLR1019) + a BC-250 HTPC build
 
 </details>
 
