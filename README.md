@@ -55,7 +55,7 @@ Outside the cluster:
 - Self-hosted git (Forgejo) once the k8s cluster is up
 - 10" DIY rack (HLR1019) + a BC-250 HTPC build
 
-![Rack current state](assets/rack-current-state.jpg)
+<img src="assets/rack-current-state.jpg" width="50%" alt="description"> 
 
 </details>
 
